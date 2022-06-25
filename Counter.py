@@ -11,7 +11,7 @@ import urllib
 import json
 
 nicknm = "BootsVip"
-pen """
+pen = """
 \033[37 ============================
 \033[37 = WARNING DONT ABUSE TOOLS =
 \033[37 = DONT RENAME TOOLS YA KID =
